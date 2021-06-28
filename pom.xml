@@ -16,7 +16,11 @@
 	<properties>
 		<java.version>1.8</java.version>
 		<spring-cloud.version>2020.0.3</spring-cloud.version>
+		 <sonar.projectKey>harshabalivada_demo</sonar.projectKey>
+  <sonar.organization>harshabalivada</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
+	
 	<dependencies>
 	 <dependency>
 			<groupId>org.springframework.boot</groupId>
